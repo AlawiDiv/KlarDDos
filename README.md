@@ -11,12 +11,21 @@ DDOS strong tool to stop servers and sites
 
 
 ## installing
-
-- 1 . <code> pkg install python </code>
-- 2 . <code> git clone https://github.com/AlawiDiv/KlarDDos  </code>
-- 3 . <code> cd KlarDDos </code>
-- 4 . <code> pip install -r installing.txt </code>
-- 5 . <code> python KlarDdos.py -h  </code>
+```
+pkg install python 
+```
+```
+git clone https://github.com/AlawiDiv/KlarDDos 
+ ```
+```
+cd KlarDDos
+ ```
+```
+pip install -r installing.txt 
+```
+```
+python KlarDdos.py -h 
+```
 
 
 
