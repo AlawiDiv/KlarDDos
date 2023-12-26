@@ -1,6 +1,6 @@
 # Klar DDos
 
-[YouTube Channel Subscribers](https://youtu.be/@A_W_C)
+[YouTube Channel Subscribers](https://www.youtube.com/@A_W_C)
 
 ## .
 [Telegram](https://t.me/AWCODE3)
@@ -36,4 +36,4 @@ $ <code>python KlarDdos.py [-i] [-p] [-l]    </code>
 
 
 
-A short video explaining the tool https://youtu.be/@A_W_C
+A short video explaining the tool https://www.youtube.com/@A_W_C
