@@ -1,9 +1,9 @@
 # Klar DDos
 
-[YouTube Channel Subscribers](https://youtu.be/JE_srze4gMQ)
+[YouTube Channel Subscribers](https://youtu.be/@A_W_C)
 
 ## .
-[Telegram](https://t.me/kali_linux_ar)
+[Telegram](https://t.me/AWCODE3)
 
 
 DDOS strong tool to stop servers and sites
@@ -13,7 +13,7 @@ DDOS strong tool to stop servers and sites
 ## installing
 
 - 1 . <code> pkg install python </code>
-- 2 . <code> git clone https://github.com/Dr-Data2/KlarDDos  </code>
+- 2 . <code> git clone https://github.com/AlawiDiv/KlarDDos  </code>
 - 3 . <code> cd KlarDDos </code>
 - 4 . <code> pip install -r installing.txt </code>
 - 5 . <code> python KlarDdos.py -h  </code>
@@ -36,4 +36,4 @@ $ <code>python KlarDdos.py [-i] [-p] [-l]    </code>
 
 
 
-A short video explaining the tool https://youtu.be/JE_srze4gMQ
+A short video explaining the tool https://youtu.be/@A_W_C
